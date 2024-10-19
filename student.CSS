@@ -1,0 +1,22 @@
+body {
+  background-image: url(gettyimages-1428719730-640x640.jpg);
+  background-size: cover;
+  display: flex;
+}
+.container {
+  margin-left: 400px;
+  margin-top: 50px;
+  margin-right: 400px;
+  border-radius: 20px 20px;
+  border: 15px;
+  border-style: solid;
+  background-color: #e4e0e1;
+  border-color: #493628;
+}
+#sub {
+  background-color: #e4e0e1;
+}
+#stu {
+  background-color: #ab886d;
+  color: wheat;
+}
